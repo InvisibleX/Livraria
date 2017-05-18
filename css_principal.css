@@ -1,0 +1,62 @@
+body{
+background:#00BFFF;
+
+}
+#img{
+position:relative;
+width:100%;
+height:86%;
+}
+.txt{
+position:relative;
+	top:-6%;
+    border-style: solid;
+    border-bottom-width: 5%;
+    border-top-width: 5%;
+    border-right-width: 5%;
+    border-left-width: 5%;
+}
+#txt_back{
+color:#FFFFFF;
+float:right;
+width:85%;
+}
+.flip3D{ width:7.8%; height:29%; margin:1%; float:left;}
+
+/*
+float:left;
+width:100%;
+height:100%;
+*/
+
+.flip3D > .front{
+	position:relative;
+	transform: perspective( 100% ) rotateY( 0deg );
+	background:#87CEEB; width:100%; height:100%;
+	
+
+	
+	backface-visibility: hidden;
+
+	
+	transition: transform .5s linear 0s;
+}
+.flip3D > .back{
+	position:absolute;
+	transform: perspective( 600px ) rotateY( 180deg );
+	background: #000000; width:7.75%; height:27%; 
+	opacity:0.7;
+	backface-visibility: hidden;
+	transition: transform .5s linear 0s;
+}
+
+
+
+
+
+.flip3D:hover > .front{
+	transform: perspective( 600px ) rotateY( -180deg );
+}
+.flip3D:hover > .back{
+	transform: perspective( 600px ) rotateY( 0deg );
+}
