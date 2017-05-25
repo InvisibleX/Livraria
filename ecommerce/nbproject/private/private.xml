@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Cadastro_Editora.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Editar_Editora.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/login.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/controler/Inserirproduto.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/controler/fileupload1.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/model/Cliente.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/dao/Editoradao.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Admin.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/css/css_login.css</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/controler/Slogin.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/controler/Scontroler.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Consultar_Editora.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/dao/Itemvendadao.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/estilo2.css</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/dao/Categoriadao.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Consultar_Cliente.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Cadastro_Cliente.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Consultar_Categoria.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Editar_Categoria.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/dao/Produtodao.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Editar_Cliente.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/model/Itemvenda.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/model/Categoria.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Cadastro_Categoria.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/css/Estilo.css</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/areausuario.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/model/Venda.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Cadastro_Produto.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/model/Produto.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/Editar_Produto.jsp</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/controler/Srecuperarsenha.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/model/Editora.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/dao/Clientedao.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/src/java/dao/Vendadao.java</file>
+            <file>file:/C:/Users/rogerd/Documents/NetBeansProjects/ecommerce/web/recuperandosenha.jsp</file>
+        </group>
+    </open-files>
+</project-private>

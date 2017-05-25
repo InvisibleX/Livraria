@@ -1,0 +1,34 @@
+body{
+margin: 0;
+/*background-image: url("bg.jpeg");*/
+background-repeat: no-repeat;
+background-size: 100% 720px;
+background-color: #1ebb90;
+
+}
+
+.container{
+width:500px;
+height: 400px;
+text-align: center;
+margin: 0 auto;
+background-color: rgba(255,255,255,0.7);
+border-radius: 4px;
+margin-top: 150px
+}
+.container img{
+width: 120px;
+height: 120px;
+margin-top: -60px;
+margin-bottom: 30px;
+}
+
+input{
+height:45px;
+width:300px;
+font-size:18px;
+margin-bottom:20px;
+background-color:#fff;
+color:black;
+}
+
